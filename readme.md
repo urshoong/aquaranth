@@ -1,4 +1,5 @@
-Aquaranth
+<img src="https://user-images.githubusercontent.com/110054050/206400266-85d102a7-0973-4d66-a059-39bf5cb4fce8.png" alt="drawing" style="width:400px;"/>
+
 ---
 > 해당 어플리케이션은 [URL](https://dq-front.run.goorm.io/) 에서 시연하실 수 있습니다.
 
