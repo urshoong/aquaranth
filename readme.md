@@ -4,14 +4,6 @@
 > 해당 어플리케이션은 [URL](https://dq-front.run.goorm.io/) 에서 시연하실 수 있습니다.
 
 
-## Verifying & Request Sequence Diagram
-![seq](https://user-images.githubusercontent.com/110054050/206376493-728d05b1-af20-490c-a970-412259f02ae9.png)
-
-## Project Architecture
-![arc](https://user-images.githubusercontent.com/110054050/206377505-5594df0c-6018-4d38-b28b-df090308bb7f.png)
-
-
-
 ## Features
 
 ### [@김민준](https://github.com/d0uwhs) 메뉴관리 (개발자 A)
@@ -192,6 +184,8 @@
 ##### Answer
 - 게시판의 대댓글 기능과 같은 구조라는 점을 깨닫고 resultMap을 이용하였다.
 
+## Verifying & Request Sequence Diagram
+![seq](https://github.com/devaquariums/aquaranth/blob/main/sequence_diagram/sequence_diagram.png?raw=true)
 
 ## Tech Stack
 
